@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "username": "fg",
+      "password1": "12",
+      "password2": "12",
+      "id": 2
+    },
+    {
+      "email": "Shd@gmail.com",
+      "username": "ewdfvs",
+      "password1": "dwsv",
+      "password2": "dafv",
+      "id": 3
+    }
+  ]
+}
